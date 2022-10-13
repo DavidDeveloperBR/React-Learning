@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Formação Node.js",
+      "price": "85",
+      "id": 20
+    },
+    {
+      "name": "Formação Node.js",
+      "price": "85",
+      "id": 21
+    },
+    {
+      "name": "Formação Node.js",
+      "price": "85",
+      "id": 22
+    }
+  ]
+}
